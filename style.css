@@ -9,10 +9,8 @@ html {
   color- primary text color for the site
   background-color - primary background color for the site */
   /* Base font */
-  font-family: "Sansation", sans-serif;
-  font-size: 20px;
-  font-weight: 700;
-
+  font-family: "Lexend", sans-serif;
+  font-weight: 400;
 }
 
 body {
@@ -27,7 +25,7 @@ body {
 h1, h2, h3, h4, h5, h6{
   /* set font styles for all of your headings, for example font-weight, line-height, font-family */
 font-family: "DM Serif Text", sans-serif;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 /* Specific element text styles */
